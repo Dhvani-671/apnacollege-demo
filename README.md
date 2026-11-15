@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-Author - Dhvani Chatrola 
+Author - Dhvani Chatrola(apna college)
